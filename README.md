@@ -13,3 +13,5 @@ Edit 3 for test commit -a -m
 Edit 45
 
 sdasd
+
+diff
