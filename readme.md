@@ -1,17 +1,2 @@
-My First Project
-Line 2
-Line 3
-
-Line 4
-
-Modified
-
-Edit 2
-
-Edit 3 for test commit -a -m
-
-Edit 45
-
-sdasd
-
-diff
+# progit
+Repository for testing stuff that the book pro-git teaches
